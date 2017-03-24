@@ -1,0 +1,273 @@
+//消息
+export var messages=[
+	{
+	  headline:'@我的'
+	},{
+	  headline:'评论'
+	},{
+	  headline:'赞'
+	},{
+	  headline:'此路不通',
+	  content:'啦吧啦吧啦吧啦吧啦',
+	},{
+	  headline:'此路不通',
+	  content:'很高兴szs认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦啦吧啦吧啦吧啦吧啦吧啦啦吧啦吧啦吧啦吧啦bb吧啦啦吧啦吧啦吧啦吧啦吧啦啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	},{
+	  headline:'此路不通',
+	  content:'很高兴认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	},{
+	  headline:'此路不通',
+	  content:'很高兴认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	},{
+	  headline:'此路不通',
+	  content:'很高兴认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	},{
+	  headline:'此路不通',
+	  content:'很高兴认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	},{
+	  headline:'此路不通',
+	  content:'很高兴认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	},{
+	  headline:'此路不通',
+	  content:'很高兴认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	},{
+	  headline:'此路不通',
+	  content:'很高兴认识你吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦'
+	}
+];
+
+//单条微博
+export var list=[
+    {
+      username:'此路不通1',
+      userhead:'../assets/active-logo.png',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostName:"头条新闻",
+      repostP:"图赫尔在赛后采访中说：“比赛结果令人不满，但球员们的表现必须得到肯定。我们没能将机会转化成进球，使我们丢掉了3分。第一个丢球显然是由于金特尔的失误造成的，但这不是输球的全部原因。我们本能够且应该在赫塔进球前取得1-0的领先，这样比赛会截然不同”。 ​​​​",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:false
+    },{
+      username:'此路不通2',
+      userhead:'../assets/active-logo.png',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostName:"头条新闻",
+      repostP:"图赫尔在赛后采访中说：“比赛结果令人不满，但球员们的表现必须得到肯定。我们没能将机会转化成进球，使我们丢掉了3分。第一个丢球显然是由于金特尔的失误造成的，但这不是输球的全部原因。我们本能够且应该在赫塔进球前取得1-0的领先，这样比赛会截然不同”。 ​​​​",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:false
+    },{
+      username:'此路不通3',
+      userhead:'../assets/active-logo.png',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:true
+    },{
+      username:'此路不通4',
+      userhead:'../assets/active-logo.png',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:true
+    }
+];
+
+//headline
+export var headline=[
+    {
+      username:'1此路不通1',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostName:"头条新闻",
+      repostP:"图赫尔在赛后采访中说：“比赛结果令人不满，但球员们的表现必须得到肯定。我们没能将机会转化成进球，使我们丢掉了3分。第一个丢球显然是由于金特尔的失误造成的，但这不是输球的全部原因。我们本能够且应该在赫塔进球前取得1-0的领先，这样比赛会截然不同”。 ​​​​",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:false
+    },{
+      username:'2此路不通2',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostName:"头条新闻",
+      repostP:"图赫尔在赛后采访中说：“比赛结果令人不满，但球员们的表现必须得到肯定。我们没能将机会转化成进球，使我们丢掉了3分。第一个丢球显然是由于金特尔的失误造成的，但这不是输球的全部原因。我们本能够且应该在赫塔进球前取得1-0的领先，这样比赛会截然不同”。 ​​​​",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:false
+    },{
+      username:'3此路不通3',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:true
+    },{
+      username:'4此路不通4',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:true
+    }
+];
+
+//hot
+export var hot=[
+    {
+      username:'1此路不通',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostName:"头条新闻",
+      repostP:"图赫尔在赛后采访中说：“比赛结果令人不满，但球员们的表现必须得到肯定。我们没能将机会转化成进球，使我们丢掉了3分。第一个丢球显然是由于金特尔的失误造成的，但这不是输球的全部原因。我们本能够且应该在赫塔进球前取得1-0的领先，这样比赛会截然不同”。 ​​​​",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:false
+    },{
+      username:'2此路不通',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostName:"头条新闻",
+      repostP:"图赫尔在赛后采访中说：“比赛结果令人不满，但球员们的表现必须得到肯定。我们没能将机会转化成进球，使我们丢掉了3分。第一个丢球显然是由于金特尔的失误造成的，但这不是输球的全部原因。我们本能够且应该在赫塔进球前取得1-0的领先，这样比赛会截然不同”。 ​​​​",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:false
+    },{
+      username:'3此路不通',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:true
+    },{
+      username:'4此路不通',
+      content:"少数情况下我不理解他的做法，经过一段时间以后反而会理解。极少数情况下我至今仍不赞同他的观点，但这也不妨碍我欣赏他。",
+      repostNum:"123",
+      commentNum:"98",
+      likeNum:"523",
+      normal:true
+    }
+];
+
+//发布页发布标签
+export var items1=[
+      {text:'文字'},
+      {text:'拍摄'},
+      {text:'相册'},
+      {text:'直播'},
+      {text:'光影秀'},
+      {text:'头条文章'},
+      {text:'签到'},
+      {text:'点评'}
+];
+export var items2=[
+      {text:'话题'},
+      {text:'红包'},
+      {text:'好友圈'},
+      {text:'音乐'},
+      {text:'商品'},
+      {text:'秒拍'}
+];
+
+//个人中心列表
+export var setList=[
+        {
+          icon:'arrow',
+          title:'新的好友',
+        },{
+          icon:'arrow',
+          title:'我的相册',
+        },{
+          icon:'arrow',
+          title:'我的赞',
+        },{
+          icon:'point',
+          title:'微博钱包',
+          remark:'逛好物，享红包'
+        },{
+          icon:'point',
+          title:'微博运动',
+          remark:'每天10000步，你达标了吗？'
+        },{
+          icon:'arrow',
+          title:'粉丝服务',
+          remark:'写文章、发点评、赚粉丝'
+        },{
+          icon:'arrow',
+          title:'粉丝头条',
+          remark:'推广博文及账号的利器'
+        },{
+          icon:'num',
+          title:'草稿箱',
+          waitNum:3
+        },{
+          icon:'arrow',
+          title:'更多',
+          remark:'收藏'
+        }
+];
+
+
+//头条列表
+export var billboardList=[
+        {
+          content:'女子二人组“有感觉”模仿情歌王改编的两段吉他弹唱串烧，能听出里面都有哪些歌曲么？第一段：',
+          isHot:true,
+          username:'此路不通2010',
+          commentnum:234
+        },{
+          content:'女子二人组“有感觉”模仿情歌王改编的两段吉他弹唱串烧，能听出里面都有哪些歌曲么？第一段：',
+          isHot:false,
+          username:'此路不通2010',
+          commentnum:29834
+        },{
+          content:'女子二人组“有感觉”模仿情歌王改编的两段吉他弹唱串烧，能听出里面都有哪些歌曲么？第一段：',
+          isHot:true,
+          username:'此路不通2010',
+          commentnum:234
+        }
+];
+
+//视频列表
+export var videoList=[
+        {
+          playNum:3820000,
+          time:'0:43',
+          content:'女子二人组“有感觉”模仿情歌王改编的两段吉他弹唱串烧，能听出里面都有哪些歌曲么？第一段：',
+          label:'此路不通的视频',
+          username:'此路不通2010',
+          commentNum:1241,
+          likeNum:10000
+        },{
+          playNum:3820000,
+          time:'0:43',
+          content:'女子二人组“有感觉”模仿情歌王改编的两段吉他弹唱串烧，能听出里面都有哪些歌曲么？第一段：',
+          label:'此路不通的视频',
+          username:'此路不通2010',
+          commentNum:1241,
+          likeNum:10000
+        },{
+          playNum:3820000,
+          time:'0:43',
+          content:'女子二人组“有感觉”模仿情歌王改编的两段吉他弹唱串烧，能听出里面都有哪些歌曲么？第一段：',
+          label:'此路不通的视频',
+          username:'此路不通2010',
+          commentNum:1241,
+          likeNum:10000
+        }
+];
+
+//发现页隐藏的icon
+export var btnList=[
+        {
+          title:'一案'
+        },{
+          title:'二案'
+        },{
+          title:'三案'
+        },{
+          title:'四案'
+        },
+];
